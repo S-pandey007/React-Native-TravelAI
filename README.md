@@ -1,7 +1,3 @@
-Here's a comprehensive README file based on your description:
-
----
-
 # AI Travel Itinerary Generator
 
 The AI Travel Itinerary Generator is a mobile application built using React Native that helps users generate personalized travel itineraries using AI. Users input their travel details such as starting place, destination, duration, and budget, and the app provides a detailed day-wise itinerary, including popular places to visit, local food recommendations, and travel tips. The app utilizes Google Generative AI to generate the itineraries and provides a seamless navigation experience between input and detailed itinerary screens.
